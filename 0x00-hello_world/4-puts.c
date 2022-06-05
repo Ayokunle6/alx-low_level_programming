@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Using the PUTS function(entry of program)
-  * Description: it prints out "Programming is like building a multilingual puzzle
+  * Description:prints out "Programming is like building a multilingual puzzle
   * Return: 0
   */
 int main(void)
