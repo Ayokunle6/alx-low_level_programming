@@ -6,12 +6,10 @@
  * main - entry point (Assigning random numbers to n)
  * Return: (0)
  */
-
 int main(void)
 {
 int n;  
 int num;
-
 srand(time(0));  
 n = rand() - RAND_MAX / 2;
 /* The code goes here */
