@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/**
+* main - Entry point (A program that prints all numbers in base 16)
+*
+* Return: 0
+*/
+
+int main(void)
+{
+int n;
+char alpha_lower;
+
+for (n = 0; n < 10; n++)
+printf("%d", n);
+for (alpha = 'a'; alpha <= 'f' ; alpha++)
+putchar(alpha);
+printf("\n");
+return (0);
+}
