@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * main - Entry point (prints all single digits possible combinations)
- *
- *return: 0
- */
+* main - Entry point (prints all single digits possible combinations)
+* Description: The program that prints all possible combinations 
+* return: 0
+*/
 
 int main(void)
 {
