@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* void print_alphabet_x10(void) - defined libary
-* Description: calls the defined function from main.h
+* print_alphabet_x10 -  prints 10 times the alphabet
+* 
 * Return: 0
 */
 
