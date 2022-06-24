@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* main - Entry point(function that prints 10 times the alphabet, in lowercase.)
-*
+* void print_alphabet_x10(void) - defined libary
+* Description: calls the defined function from main.h
 * Return: 0
 */
 
