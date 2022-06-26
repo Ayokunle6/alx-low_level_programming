@@ -16,7 +16,7 @@ sum = 3;
 
 printf("%ld, ", fib1);
 printf("%ld, ", fib2);
-for (a = 3; a <= 50; a++)
+for (a = 3; a < 50; a++)
 {
 printf("%ld, ", sum);
 fib1 = fib2;
