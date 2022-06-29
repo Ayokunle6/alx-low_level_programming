@@ -5,7 +5,7 @@
 * main - prints the minimum number of coins to make change 25, 10, 5, 2, 1
 * @argc: the size of the argv array, the number of command line arguments
 * @argv: array containing the program command line arguments
-* 
+*
 * Return: 0
 */
 
