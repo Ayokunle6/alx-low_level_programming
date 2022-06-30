@@ -5,7 +5,7 @@
 * alloc_grid - creates a 2d integer grid
 * @width: number of columns
 * @height: number of rows
-
+*
 * Return: pointer to grid or null
 */
 
@@ -33,7 +33,7 @@ for (i = 0; i < height; i++)
 {
 
 for (j = 0; j < width; j++)
-grid[i][j] = 0; 
+grid[i][j] = 0;
 }
 return (grid);
 }
