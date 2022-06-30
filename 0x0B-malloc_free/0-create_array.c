@@ -18,7 +18,7 @@ unsigned int x;
 if (size == 0)
 return (NULL);
 str = malloc(sizeof(char) * size);
-if (str == NULL);
+if (str == NULL)
 return (NULL);
 x = 0;
 while (x < size)
