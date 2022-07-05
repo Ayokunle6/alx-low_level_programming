@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-* main - prints the name of the file it was compiled from,
+* main - check the code for Holberton School students
 * 
 * Return: 0
 */
